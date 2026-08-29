@@ -1,6 +1,7 @@
 # Data Set
 ### URL
-ZipCheckup - https://github.com/artakulov/us-water-quality-data 
+[ZipCheckup](https://github.com/artakulov/us-water-quality-data) 
+https://github.com/artakulov/us-water-quality-data
 ### Introduction to Data Set
 This data set consists of thousands of zip codes, each with corresponding data regarding any health violations, lead and copper presence in water, flood risk, air quality, demographic information, and more. 
 ### Potential Application
@@ -8,7 +9,8 @@ This data set has signification potential applications. It can be used to assess
 
 # Book
 ### URL
-Networks, Crowds, and Markets: Reasoning About a Highly Connected World - https://www.cs.cornell.edu/home/kleinber/networks-book/
+[Networks, Crowds, and Markets: Reasoning About a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/)
+https://www.cs.cornell.edu/home/kleinber/networks-book/
 ### Author/Institute Information
 Authors: David Easley and Jon Kleinberg
 Institute: Cornell
