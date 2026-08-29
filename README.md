@@ -8,7 +8,9 @@ This data set has signification potential applications. It can be used to assess
 
 # Book
 ### URL
-
+Networks, Crowds, and Markets: Reasoning About a Highly Connected World - https://www.cs.cornell.edu/home/kleinber/networks-book/
 ### Author/Institute Information
-
+Authors: David Easley and Jon Kleinberg
+Institute: Cornell
 ### Interest
+This book caught my interest, as I find the connection between data and society interesting, and it is something I would love to further explore. I think this book would support that interest and help me grow a multi-dimensional approach to connecting data and society. Being able to see the impact of something computational like data intrigues me, and I value the knowledge to support that interest. 
